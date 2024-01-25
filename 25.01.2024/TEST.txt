@@ -1,0 +1,10 @@
+zad.1
+D
+zad.2
+B
+Zad.3
+B
+zad.4
+B
+Zad.5
+A

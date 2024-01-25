@@ -1,0 +1,8 @@
+Zadanie.5
+Nazwa atrybutu                                     Zastosowanie                                       Znacznik
+Type="submit"                             pole tworzące przycisk do wysyłania danych                   <input>
+Scroling="no/yes/auto"                     ustawienie suwaków do przewijania                           <frame>
+Maxlenght="x"                              maksymalna liczba znaków                                     <input>
+cellspacing="x"                            rosmiar odstępów między komurkami                            <table>
+id="header"                                        
+Type="text                                         pole tekstowe                                       <input>
